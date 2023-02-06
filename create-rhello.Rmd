@@ -54,13 +54,6 @@ say_hello <- function(name, exclamation = TRUE) {
 
 
 
-test
-testtest
-test test test
-test test
- test
-testtest
-testtest
 Code chunks whose first line starts with `#'` are added to the package.
 
 We can try running it.
